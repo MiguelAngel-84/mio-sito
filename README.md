@@ -1,4 +1,4 @@
-![La mia foto](foto.jpeg)
+![La mia foto](foto1.jpeg)
 
 # Ciao, sono Miguel!
 
